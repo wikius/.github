@@ -3,7 +3,8 @@
 2. a constellation of US Wikimedians and projects without other homes.
 
 # Projects
-Our areas of focus include Wiki × AI; scaling Wikidata; citation tools; GLAM tools; editor recruitment and diversity
+Our areas of focus include Wiki × AI; scaling Wikidata; citation tools; GLAM tools; editor recruitment and diversity. 
+Currently under discussion and development:
 
 Wiki x AI:
 * [Omnipedia](http://www.omnipedia.cc/): using the Manual of Style to automate article review – LLM tools for turning MoS pages into requirements, and for evaluating articles against those requirments, by sentence and by section.  Presentations at AI Palace and EMNLP 2024.

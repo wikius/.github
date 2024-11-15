@@ -23,6 +23,7 @@ Editor recruitment:
 * Planned project: Education and engagement of Black US Wikipedians, with AfroCrowd and WikiEdu 
 * Potential future projects: University ambassador program, education and outreach campaigns on reservations 
 
+----
 
 # Projects we like
 _and that have helped plan or implement some of these projects_

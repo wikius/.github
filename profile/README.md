@@ -1,4 +1,6 @@
-Welcome to the Github repository of Wiki US, a coalition of US Wikimedians and projects.
+**wikius**, n.  
+1. singular of wikia. 
+2. a constellation of US Wikimedians and projects without other homes.
 
 # Projects
 Our areas of focus include Wiki × AI; scaling Wikidata; citation tools; GLAM tools; editor recruitment and diversity
@@ -20,3 +22,19 @@ GLAM tools:
 Editor recruitment:
 * Planned project: Education and engagement of Black US Wikipedians, with AfroCrowd and WikiEdu 
 * Potential future projects: University ambassador program, education and outreach campaigns on reservations 
+
+
+# Projects we like
+_and that have helped plan or implement some of these projects_
+
+* Wikiconference North America, an annual conference that has helped seed and organize many of these projects
+* Wikimedia NYC and Wikimedia DC, the two Wikimedia chapters in the US, which host or incubate many projects not listed above and run many of their own
+* Wiki Education ([wikiedu](https://wikiedu.org/)), which has run hundreds of courses and outreach events for thousands of students across the US (and maintains their own excellent [dashboard](https://dashboard.wikiedu.org/))  
+* Wikicred, a proposed user group focused on credibility tools which has distributed over $200k in microgrants, organized a few events, and runs regular office hours introducing them to the community
+* Hacks/Hackers, a tech + journalism non-profit and incubator that has been the fiscal sponsor and facilitator for many wiki and credibility programs, including WikiCred and WCNA 2019
+* The [Community Data Science Collective](https://wiki.communitydata.science/Main_Page), an interdisciplinary research group with wiki nous and intergalactic insight
+* [Shared Citations](https://meta.wikimedia.org/wiki/WikiCite/Shared_Citations), an extremely well-described project designed by Liam Wyatt and others, which was well received by the community but has not been pursued.
+* [Scholia](https://scholia.toolforge.org/statistics), a scholarly-research discovery tool that is the most-used interface to Wikidata after the official Query Service.
+* Underlay, a framework for sharing composable, provenanced data, used for capturing attestations of reliability in the Reliable Sources project.
+* Future House, and their [WikiCrow](https://wikicrow.ai/) project working on accelerating the production of wiki-style knowledge
+* Block Science, working on [languages for knowledge networks](https://blog.block.science/a-language-for-knowledge-networks/) and the Omnipedia prototype

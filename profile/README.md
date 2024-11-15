@@ -13,7 +13,7 @@ Scaling Wikidata:
 
 Citation tools:
 * Past projects + related programs: [WikiCred](https://meta.wikimedia.org/wiki/WikiCred) microgrants, [Reliable Sources](https://en.wikipedia.org/wiki/Wikipedia:Vaccine_safety/Perennial_sources) project
-* Potential future projects: Turning [scholarly metadata in Wikidata](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/WDQS_graph_split) into its a proper [WikiCite](https://commons.wikimedia.org/wiki/File:WikiCite_poster_2011.pdf) project.
+* Potential future projects: Adding missing scholarly metadata to the new [scholarly wikibase in Wikidata](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/WDQS_graph_split), and turning into a full-fledged [WikiCite](https://commons.wikimedia.org/wiki/File:WikiCite_poster_2011.pdf) project.
 
 GLAM tools:
 * Past projects + related programs: extensive Wikimedians in Residence at the Met, Smithsonian, National Archives, &c.

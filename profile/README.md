@@ -24,8 +24,8 @@ GLAM tools:
 * Potential future project: Fellowship program for GLAM tool designers
 
 Editor recruitment:
+* Support for annual events: WLM, Wiknic, [WikiPortraits](https://commons.wikimedia.org/wiki/Commons:WikiPortraits)
 * Planned project: Education and engagement of Black US Wikipedians, with AfroCrowd and WikiEdu 
-* Support for annual events: WLM, Wiknic, WikiPortraits
 * Potential future projects: University ambassador program, Stammtisch kits
 
 &nbsp;
